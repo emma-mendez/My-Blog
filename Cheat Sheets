@@ -1,0 +1,55 @@
+Cheat Sheets (Quick References/Tips/Guides)
+Here are some everyday Windows & MacOS cheatsheets for All (Granddads, Grandma', Children ect...)
+Click Here for link to easy everyday Windows cheats.
+Click Here for everyday MacOS cheats.
+
+New Coders
+If your new to coding and you want a quick start, get acquainted with the Command Line or you may know it as 'Console', 'Shell', MacOS = 'Terminal' or Windows = 'Command Prompt'.
+
+THE COMMAND LINE
+Click here for extensive cheat sheet for MacOS Users on the Command Line.
+Click here for Windows Users.
+
+Fun Task To Do In Command Line: 
+To make a simple folder on your desktop right now :-).
+Use 'Finder/Search' on your computer to access; 
+Terminal or
+Command Prompt 
+Simply follow these steps:
+TYPE IN TERMINAL/COMMAND PROMPT
+	- ls = (look search)
+	- cd desktop = (change directory)
+	- mkdir = (make directory) + space, write the name of your chosen dir
+Do you see a folder? Great you've created a folder using the Command Line.
+
+*Tip: To make a comment on Command Line - MacOS = #Comment
+								    	     - Windows = rem (short for remark)
+			i.e. # comment like this on MacOS
+			i.e. rem comment like this on Windows
+
+________________
+Sun 22 Nov 2020
+
+THE DEVELOPERS CHEAT SHEETS (In Process of Updating)
+
+GIT HUB
+Click Here - Git Hub Cheat Sheet
+Click Here - Git Hub Emoji Cheat Sheet
+Click Here - Git Hub Terminal Cheats
+
+VISUAL CODE
+Click Here - Visual Code Tips and Tricks
+
+___________________
+Mon 21 Nov 2020
+
+Click Here - Full JavaScript Guide (Recommended by Black CodeHer Bootcamp slides Unit 5, S.1, pg.14)
+Click Here - Node.js REPL: (Shorthand for Repeat-Eval-Print-Loop) used in the Shell.
+	i.e. type >node, followed by 110+1.
+		type .exit to leave node.js.
+
+___________________
+Tue 22 Nov 2020
+
+MONGODB CHEATSHEET
+Click Here - Mongo Cheat Sheets
