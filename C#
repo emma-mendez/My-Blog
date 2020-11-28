@@ -1,0 +1,40 @@
+Ok so here we are, at the C# Language.
+AIM:  Build a Vocal Training App the has voice input.
+
+Aston Walker my good friend and Tech head business partner, has heard my ideas to create a vocal app for my personal project and stepped in with a hefty load of foresight for me. 
+
+So Emma is Manning up to take on a new language to execute to the best of my ability an App that with process voice.
+
+Last night we put our heads together and gathered the research to make the plan.
+
+To Astons credit, he came up with the plan, Im along for the learning for sure.
+
+THE PLAN
+1- Voice Input
+2- Process the voice & compare it against a database of scales.	\
+	a- Input stored database in variable and buffer
+	b- loop to compare against the db
+	c- function/algorithm takes input and makes a comparison
+
+RESEARCH LINKS (REFERENCES FOR MY PROJECT)
+
+React Native and iOS
+https://github.com/f111fei/react-native-unity-view
+
+C# realtime pitch tracker
+https://github.com/charlottepierce/UnityPitchControl
+
+Buffers and getting sound from mic
+https://stackoverflow.com/questions/6959930/android-need-to-record-mic-input
+
+Buffers and getting sound from mic
+https://stackoverflow.com/questions/6959930/android-need-to-record-mic-input
+
+Xcode is an api for mac for C# development
+https://youtu.be/cVMA9aBhZpU
+
+Tutorial
+https://youtu.be/cVMA9aBhZpU
+
+I use visual studio with unity as my c# api. The visual studio is the same as the xcode but vs can export to android.
+https://visualstudio.microsoft.com/vs/mac/unity/
